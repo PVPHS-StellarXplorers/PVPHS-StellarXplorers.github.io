@@ -11,12 +11,8 @@ body{
     width: 100%;
     height: 100vh;
     background-color: #cf3636;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    padding: 20px 0;
 }
 .container{
-    max-width: 1200px;
-    margin: 0 auto;
     padding: 10px 10%;
 }
 nav {
