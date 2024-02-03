@@ -21,3 +21,8 @@ nav {
     justify-content: space-between;
     flex-wrap: wrap;
 }
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
