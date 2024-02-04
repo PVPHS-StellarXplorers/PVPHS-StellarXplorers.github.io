@@ -19,9 +19,11 @@ body{
     padding: 0px 0%;
     width: 100%;
     overflow: hidden;
+    background-image: url(../img/background.jpg);
 }
 .container-contents {
     padding: 10px 5%;
+    background-image: url(../img/background.jpg);
 }
 
 nav{
@@ -29,6 +31,7 @@ nav{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    background-image: url(../img/background.jpg);
 }
 
 .logo{
@@ -66,11 +69,14 @@ nav ul li a:hover::after {
     margin-top: 20%;
     font-size: 30px;
     margin-left: 10%;
+    background-image: url(../img/background.jpg);
 }
 .body-text h1 {
     font-size: 60px;
     margin-top: 20px;
+    background-image: url(../img/background.jpg);
 }
 .body-text h1 span {
     color: #FFC72C;
+    background-image: url(../img/background.jpg);
 }
