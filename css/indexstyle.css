@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background: #bf9e9e;
+    background: #ffffff;
     color: #ffffff;
 }
 #contents{
@@ -17,7 +17,7 @@ body{
 }
 .container {
     padding: 0px 0%;
-    background-color: hwb(0 0% 100% / 0.800);
+    background-color: #000000;
     width: 100%;
     overflow: hidden;
 }
