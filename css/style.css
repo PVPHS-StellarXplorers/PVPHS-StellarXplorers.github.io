@@ -31,6 +31,7 @@ nav ul li{
 }
 #header .container h1{
     font-size: 3rem;
-    color: #fff;
+    color: #000000;
+    background-color: #fff;
     margin-top: 20px;
 }
