@@ -19,6 +19,7 @@ body{
     background-color: transparent;
     width: 100%;
     overflow: hidden;
+    background-image: url("img/background.jpg");
 }
 .container-contents {
     padding: 10px 5%;
@@ -73,7 +74,4 @@ nav ul li a:hover::after {
 }
 .body-text h1 span {
     color: #FFC72C;
-}
-.backgroundimg {
-    width: 100%;
 }
