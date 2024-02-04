@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background: #ffffff;
+    background-image: url("img/background.jpg");
     color: #ffffff;
 }
 #contents{
@@ -16,10 +16,8 @@ body{
 }
 .container {
     padding: 0px 0%;
-    background-color: transparent;
     width: 100%;
     overflow: hidden;
-    background-image: url("img/background.jpg");
 }
 .container-contents {
     padding: 10px 5%;
