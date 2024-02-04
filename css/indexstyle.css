@@ -20,7 +20,6 @@ body{
 }
 .container-contents {
     padding: 10px 5%;
-    background-image: url(../img/background.jpg);
 }
 
 nav{
@@ -28,7 +27,6 @@ nav{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    background-image: url(../img/background.jpg);
 }
 
 .logo{
