@@ -69,9 +69,7 @@ nav ul li a:hover::after {
 .body-text h1 {
     font-size: 60px;
     margin-top: 20px;
-    background-image: url(../img/background.jpg);
 }
 .body-text h1 span {
     color: #FFC72C;
-    background-image: url(../img/background.jpg);
 }
