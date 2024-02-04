@@ -29,3 +29,8 @@ nav ul li{
 .logo{
     width: 150px;
 }
+#header .container h1{
+    font-size: 3rem;
+    color: #fff;
+    margin-top: 20px;
+}
