@@ -7,6 +7,17 @@
 body{
     color: #ffffff;
 }
+
+a:link {
+    color:#FFC72C;
+}
+a:visited {
+    color:#FFC72C;
+}
+a:hover {
+    color:white;
+}
+
 #contents{
     width: 100%;
     height: 100vh;
@@ -69,11 +80,15 @@ nav ul li a:hover::after {
     margin-right: 10%;
     padding: 20px;
     background-color: #00000093;
+    height: 70vh;
+    border-radius: 10px;
 }
 .body-text h1 {
     font-size: 60px;
     margin-top: 20px;
 }
-.body-text h1 span {
+.body-text span {
     color: #FFC72C;
 }
+
+
